@@ -1,0 +1,38 @@
+* {
+    margin: 0px;
+    padding: 0px;
+}
+
+.heading {
+    color: seashell;
+    text-align: center;
+    font-size: 100px;
+}
+
+.h11 {
+    color: seashell;
+    font-size: 50px;
+}
+
+.h22 {
+    color: seashell;
+    font-size: 50px;
+}
+
+.heading5 {
+    color: darkslategray;
+}
+
+.heading6 {
+    color: black;
+    font-size: 40px;
+    font-weight: 900;
+}
+
+.heading7 {
+    font-size: 30px;
+}
+
+.heading8 {
+    font-size: 30px
+}
